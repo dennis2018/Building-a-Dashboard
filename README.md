@@ -20,3 +20,8 @@ Creating Charts
 
 # But,First,Let's develop the project
 # Setting up the Environment
+Including Dependencies We’ll be using the following dependencies for this project. To create the dashboard, you’ll need to set-up these dependencies as explained below:
+
+1. React
+2. Bootstrap
+3. FusionCharts Core Package, its React Component and FusionMaps package
