@@ -4,15 +4,15 @@ React and Bootstrap
 [**Project link**](https://www.dennismburu.tech/)
 # Table of Contents
 
-Setting up the Environment
+1. Setting up the Environment
 
-Connecting Google Sheets and Fetching data
+2. Connecting Google Sheets and Fetching data
 
-Building the Dashboard Layout
+3. Building the Dashboard Layout
 
-Creating KPI’s
+4. Creating KPI’s
 
-Creating Charts
+5. Creating Charts
 
 # **Steps to running and developing the project**:
 1. After cloning the repository, use `npm install` to install all the dependencies needed.
